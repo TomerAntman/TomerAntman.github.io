@@ -12,3 +12,6 @@ The full description appears in the [README.md](https://github.com/Code-Maven/wi
 
 ## HTML
 - small icons = "Favicon"
+- how to change styles
+- HTML vs CSS
+- use docs directory instead of root
