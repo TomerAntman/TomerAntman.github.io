@@ -5,7 +5,7 @@
 <details>
 <summary>blabla</summary>
 
-```python
+```
 
 def leap_year(year):
     leap = False
@@ -14,7 +14,7 @@ def leap_year(year):
             leap = True
             
     return (leap) 
-    
+
 ```
 </details>
 
