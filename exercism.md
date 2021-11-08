@@ -8,7 +8,7 @@
 {::options parse_block_html="true" /}
 
 <details> 
-<summary><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
+<summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
 <p>
 
 ```python
