@@ -9,8 +9,8 @@
 Slow shutter speed allows more light in, resulting in a brighter picture (which makes a slow shutter speed great for nighttime or low light conditions) but the down side is what is known as a <b>motion blur</b>. </br>
 A motion blur isn't necessarily a bad thing, you just need to know how to use it to your advantage. To avoid shaking (which causes extra blur), you can use a tripod, which will allow you to take sharper pictures of static objects.
 
-Visual explantion from [studiobinder](https://www.studiobinder.com/):</br>
-![shutter](https://s.studiobinder.com/wp-content/uploads/2020/12/Ultimate-Guide-to-Shutter-Speed-Shutter-Speeds.png.webp?resolution=1440,1.7999999523162842)
+Visual explantion from [clickandlearnphotography](https://www.clickandlearnphotography.com/):</br>
+![shutter](https://www.clickandlearnphotography.com/wp-content/uploads/2020/01/shutter-speed-chart-infographic-710x1024.png)
 ___
 ___
 ### <b>Aperture Size:</b>
