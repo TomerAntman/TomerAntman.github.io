@@ -1,7 +1,7 @@
 
-![FAV](safari-pinned-tab.svg)\
+<img src=safari-pinned-tab.svg width="10%" height="10%">
 
-
+## Tomer Antman
 An MSc student at the Weizmann Institute of Science.
 
 <U>Track:</U> Computational & Systems Biology (Life Sciences). For more info on the track, visit: [azrielisystems](https://centers.weizmann.ac.il/azrielisystems/)
