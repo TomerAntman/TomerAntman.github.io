@@ -3,6 +3,16 @@
   [All python solutions](https://exercism.org/profiles/TomerAntman/solutions?track_slug=python) \
   Press the arrows next to the links to see the code.
 
+```python
+def leap_year(year):
+    leap = False
+    if (year % 4 == 0):
+        if (year % 100 != 0) or (year % 400 == 0):
+            leap = True
+            
+    return (leap) 
+```
+
 {::options parse_block_html="true" /}
 <!-- Leap-->
 <details><summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
