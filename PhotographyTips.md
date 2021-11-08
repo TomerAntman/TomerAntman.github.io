@@ -45,7 +45,7 @@ ___
 ___
 
 </br>
-This is only the smallest chuck of the tip of the iceberg. If you want to know more, google and explore blogs and websites.
+This is only the smallest chunck of the tip of the iceberg. If you want to know more, google and explore blogs and websites.
 Hope you enjoyed.</br></br>
 Tomer</br></br>
 
