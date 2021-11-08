@@ -3,12 +3,11 @@
   [All python solutions](https://exercism.org/profiles/TomerAntman/solutions?track_slug=python) \
   Press the arrows next to the links to see the code.
 
-[//]: <> (Leap)
-
 {::options parse_block_html="true" /}
-
+<!-- Leap-->
 <details> 
 <summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
+<p>
 
 ```python
 def leap_year(year):
@@ -19,16 +18,14 @@ def leap_year(year):
             
     return (leap) 
 ```
-  
+
+</p>
 </details> 
 <p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/3805d6743b3c44bda45cdd2d82cd7c0e">here</a></U> to mentor
 
-[//]: <> (Card games)
-
+<!-- Card games -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/card-games/solutions/TomerAntman">Card games</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/6901470b1b454bdb809d12a743527f61">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/card-games/solutions/TomerAntman">Card games</a></summary>
 <p>
 
 ```python
@@ -93,13 +90,12 @@ def maybe_double_last(hand):
 
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/6901470b1b454bdb809d12a743527f61">here</a></U> to mentor
 
 
-[//]: <> (Darts)
+<!-- Darts -->
 <details> 
-<summary> <a href="https://exercism.org/tracks/python/exercises/darts/solutions/TomerAntman">Darts</a>
-<p> Mentored by <a href="https://exercism.org/profiles/szabgab">szabgab</a> 
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/darts/solutions/TomerAntman">Darts</a></summary>
 <p>
 
 ```python
@@ -123,12 +119,11 @@ def score(x, y):
 
 </p>
 </details>
+<p> Mentored by <a href="https://exercism.org/profiles/szabgab">szabgab</a> 
 
-[//]: <> (Little Sister's Essay)
+<!-- Little Sister's Essay -->
 <details> 
-<summary> <a href="https://exercism.org/tracks/python/exercises/little-sisters-essay/solutions/TomerAntman">Little Sister's Essay</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/44328d7eb009418aab4638766f5d3e96">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/little-sisters-essay/solutions/TomerAntman">Little Sister's Essay</a></summary>
 <p>
 
 ```python
@@ -173,12 +168,11 @@ def replace_word_choice(sentence, old_word, new_word):
 
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/44328d7eb009418aab4638766f5d3e96">here</a></U> to mentor
 
-[//]: <> (Meltdown Mitigation)
+<!-- Meltdown Mitigation -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/meltdown-mitigation/solutions/TomerAntman">Meltdown Mitigation</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/e3fbbf8881c048daabca216310760179">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/meltdown-mitigation/solutions/TomerAntman">Meltdown Mitigation</a></summary>
 <p>
 
 ```python
@@ -252,12 +246,11 @@ def fail_safe(temperature, neutrons_produced_per_second, threshold):
 ```
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/e3fbbf8881c048daabca216310760179">here</a></U> to mentor
 
-[//]: <> (Little Sister's Vocabulary)
+<!-- Little Sister's Vocabulary -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/little-sisters-vocab/solutions/TomerAntman">Little Sister's Vocabulary</a>
-<p> Mentored by <a href="https://exercism.org/profiles/esskayesss">esskayesss</a> 
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/little-sisters-vocab/solutions/TomerAntman">Little Sister's Vocabulary</a></summary>
 <p>
 
 ```python
@@ -321,12 +314,11 @@ def noun_to_verb(sentence, index):
 ```
 </p>
 </details>
+<p> Mentored by <a href="https://exercism.org/profiles/esskayesss">esskayesss</a>
 
-[//]: <> (Grains)
+ <!-- Grains -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/grains/solutions/TomerAntman">Grains</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/8b23ec46cad84589b823eab173d6630f">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/grains/solutions/TomerAntman">Grains</a></summary>
 <p>
 
 ```python
@@ -346,12 +338,11 @@ def total():
 ```
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/8b23ec46cad84589b823eab173d6630f">here</a></U> to mentor
 
-[//]: <> (Currency Exchange)
+<!-- Currency Exchange -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/currency-exchange/solutions/TomerAntman">Currency Exchange</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/a5b5076e1ab24bbdb6650d62bdbcb400">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/currency-exchange/solutions/TomerAntman">Currency Exchange</a></summary>
 <p>
 
 ```python
@@ -422,12 +413,12 @@ def non_exchangeable_value(budget, exchange_rate, spread, denomination):
 ```
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/a5b5076e1ab24bbdb6650d62bdbcb400">here</a></U> to mentor
 
-[//]: <> (Ghost Gobble Arcade Game)
+
+<!-- Ghost Gobble Arcade Game -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game/solutions/TomerAntman">Ghost Gobble Arcade Game</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/31780a1e29104e909f8baa763659e3f4">here</a></U> to mentor
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game/solutions/TomerAntman">Ghost Gobble Arcade Game</a></summary>
 <p>
 
 ```python
@@ -475,11 +466,12 @@ def win(has_eaten_all_dots, power_pellet_active, touching_ghost):
 ```
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/31780a1e29104e909f8baa763659e3f4">here</a></U> to mentor
 
-[//]: <> (Guido's Gorgeous Lasagna)
+
+<!-- Guido's Gorgeous Lasagna -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna/solutions/TomerAntman">Guido's Gorgeous Lasagna</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/aac59c659f33464188dc031d41b62ac8">here</a></U> to mentor
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/guidos-gorgeous-lasagna/solutions/TomerAntman">Guido's Gorgeous Lasagna</a>
 </summary>
 <p>
 
@@ -522,13 +514,11 @@ def elapsed_time_in_minutes(number_of_layers = 2, elapsed_bake_time = 30):
 ```
 </p>
 </details>
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/aac59c659f33464188dc031d41b62ac8">here</a></U> to mentor
 
-
-[//]: <> (Hello World)
+<!-- Hello World -->
 <details>
-<summary> <a href="https://exercism.org/tracks/python/exercises/hello-world/solutions/TomerAntman"> Hello World</a>
-<p> Mentoring is unnecessary for this exercise.
-</summary>
+<summary markdown="span"> <a href="https://exercism.org/tracks/python/exercises/hello-world/solutions/TomerAntman"> Hello World</a></summary>
 <p>
 
 ```python
@@ -537,9 +527,10 @@ def hello():
 ```
 </p>
 </details>
+<p> Mentoring is unnecessary for this exercise.
 
 
-[//]: <> (_)
+<!-- ___  -->
 <!-- 
 <details>
 <summary> <a href="_">_</a>
