@@ -9,7 +9,6 @@
 
 <details> 
 <summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
-<p>
 
 ```python
 def leap_year(year):
@@ -20,8 +19,7 @@ def leap_year(year):
             
     return (leap) 
 ```
-
-</p>
+  
 </details> 
 <p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/3805d6743b3c44bda45cdd2d82cd7c0e">here</a></U> to mentor
 
