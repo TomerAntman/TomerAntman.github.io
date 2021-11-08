@@ -18,9 +18,11 @@ ___
 ### <b>Aperture Size:</b>
 Aperture is the hole in the lens through which lights enters. Naturally, the bigger the hole, the more light that enters. The size number is sometimes reffered to as "f stop".  \
 The "catch" is that the number seen on the cameras (the "f stop") is multiplicatively inverse to it's size. In simpler terms: '16' (for example) will result in a much smaller hole than '2'. Hence, the numbers are usually denoted like this:
-f/1.4|f/2|...|f/16|f/22
--|-|--|-|-
- | | | | 
+- f/1.4
+- f/2
+- ...
+- f/16
+- f/22
 
 The forward slash indicates the multiplicative inversion. Even if it doesn't appear, the rule of inversion still applies
 
