@@ -4,7 +4,9 @@
   Press the arrows next to the links to see the code.
 <details>
 <summary>blabla</summary>
+
 ```python
+
 def leap_year(year):
     leap = False
     if (year % 4 == 0):
@@ -12,6 +14,7 @@ def leap_year(year):
             leap = True
             
     return (leap) 
+    
 ```
 </details>
 
