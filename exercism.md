@@ -2,7 +2,8 @@
 \
   [All python solutions](https://exercism.org/profiles/TomerAntman/solutions?track_slug=python) \
   Press the arrows next to the links to see the code.
-
+<details>
+<summary>blabla</summary>
 ```python
 def leap_year(year):
     leap = False
@@ -12,6 +13,7 @@ def leap_year(year):
             
     return (leap) 
 ```
+</details>
 
 {::options parse_block_html="true" /}
 <!-- Leap-->
