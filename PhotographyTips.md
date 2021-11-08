@@ -10,7 +10,7 @@ Slow shutter speed allows more light in, resulting in a brighter picture (which 
 A motion blur isn't necessarily a bad thing, you just need to know how to use it to your advantage. To avoid shaking (which causes extra blur), you can use a tripod, which will allow you to take sharper pictures of static objects.
 
 Visual explantion from [clickandlearnphotography](https://www.clickandlearnphotography.com/):</br>
-![shutter](https://www.clickandlearnphotography.com/wp-content/uploads/2020/01/shutter-speed-chart-infographic-710x1024.png)
+<img src="https://www.clickandlearnphotography.com/wp-content/uploads/2020/01/shutter-speed-chart-infographic-710x1024.png" width="80%" height="80%">
 ___
 ___
 ### <b>Aperture Size:</b>
