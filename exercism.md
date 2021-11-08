@@ -8,11 +8,7 @@
 {::options parse_block_html="true" /}
 
 <details> 
-<summary> 
-<a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a>
-<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/3805d6743b3c44bda45cdd2d82cd7c0e">here</a></U> to mentor
-
-</summary>
+<summary><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
 <p>
 
 ```python
@@ -27,6 +23,7 @@ def leap_year(year):
 
 </p>
 </details> 
+<p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/3805d6743b3c44bda45cdd2d82cd7c0e">here</a></U> to mentor
 
 [//]: <> (Card games)
 
