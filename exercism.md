@@ -4,10 +4,10 @@
   Press the arrows next to the links to see the code.
 
 [//]: <> (Leap)
+{::options parse_block_html="true" /}
 <details> 
 <summary> <a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a>
 <p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/3805d6743b3c44bda45cdd2d82cd7c0e">here</a></U> to mentor
-
 </summary>
 <p>
 
@@ -24,7 +24,10 @@ def leap_year(year):
 </p>
 </details> 
 
+{::options parse_block_html="false" /}
+
 [//]: <> (Card games)
+{::options parse_block_html="true" /}
 <details>
 <summary> <a href="https://exercism.org/tracks/python/exercises/card-games/solutions/TomerAntman">Card games</a>
 <p> This exercise wasn't mentored yet! Click <U> <a href="https://exercism.org/mentoring/external_requests/6901470b1b454bdb809d12a743527f61">here</a></U> to mentor
@@ -93,6 +96,8 @@ def maybe_double_last(hand):
 
 </p>
 </details>
+
+{::options parse_block_html="false" /}
 
 [//]: <> (Darts)
 <details> 
