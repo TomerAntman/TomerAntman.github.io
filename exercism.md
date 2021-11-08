@@ -5,8 +5,7 @@
 
 {::options parse_block_html="true" /}
 <!-- Leap-->
-<details> 
-<summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
+<details><summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/leap/solutions/TomerAntman">Leap</a></summary>
 <p>
 
 ```python
@@ -26,8 +25,7 @@ def leap_year(year):
 
 {::options parse_block_html="true" /}
 <!-- Card games -->
-<details>
-<summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/card-games/solutions/TomerAntman">Card games</a></summary>
+<details><summary markdown="span"><a href="https://exercism.org/tracks/python/exercises/card-games/solutions/TomerAntman">Card games</a></summary>
 <p>
 
 ```python
