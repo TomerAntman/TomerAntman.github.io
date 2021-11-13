@@ -15,3 +15,20 @@ The full description appears in the [README.md](https://github.com/Code-Maven/wi
 - how to change styles
 - HTML vs CSS
 - use docs directory instead of root
+
+**9/11/2021**
+## HTML/CSS frameworks
+Use too build a website that looks much better
+- Bulma
+- Bootstrap
+
+## Flask
+A web framework written in python. See [slides](https://code-maven.com/slides/python/flask)
+- need to install (pip install flask)
+- a decorator in python (@) changes the behaviour of the function after it
+- to run, write in the terminal of Pycharm:
+  - set FLASK_APP=app</br>  set FLASK_DEBUG=1</br> flask run 
+- We talked about testing the flask app
+- by using "**request**" you can create an html page based on input (meaning you can also request data)
+- [**client**](https://code-maven.com/slides/python/flask-echo-get-client): call the flask app code from other python code (program)
+- GET method vs POST method: I think GET will change the URL to whatever you wrote. (relevant [slide](https://code-maven.com/slides/python/flask-get-and-post-in-two-functions))
