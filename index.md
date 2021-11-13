@@ -9,4 +9,4 @@ An MSc student at the Weizmann Institute of Science.
 * My Advanced Programming [lecture notes](LectureNotes.md)
   * [exercism](exercism.html) (this is an html page, not markdown)
 * Some [photography tips](PhotographyTips.md)
-* My photography [website](phozogy-master/index.html)
+* My photography [website](web/index.html)
